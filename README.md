@@ -459,28 +459,7 @@ Possible future features:
 
 ---
 
-## 11. Portfolio Value
-
-This project is valuable for job applications because it demonstrates several important skills:
-
-- AI agent orchestration
-- Multi-model communication
-- Codebase analysis
-- Human-in-the-loop system design
-- Prompt engineering
-- Cloud deployment on AWS
-- Secure sandbox design
-- Backend architecture
-- Developer tooling
-- Practical software engineering workflow
-
-A strong resume description could be:
-
-> Built a human-in-the-loop AI coding orchestration system that coordinates Claude, ChatGPT, and Claude Code to inspect repositories, generate codebase-aware implementation plans, critique risks, and produce approval-ready execution prompts before code changes are made.
-
----
-
-## 12. Summary
+## 11. Summary
 
 This system allows the developer to communicate with a single AI orchestrator instead of manually managing multiple AI tools. The orchestrator gathers codebase context through Claude Code, uses Claude and ChatGPT for reasoning and critique, and produces a final implementation plan for human review.
 
